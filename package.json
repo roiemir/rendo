@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/roiemir/rendo#readme",
   "dependencies": {
-    "oil": "^0.4.1"
+    "oil": "git+https://github.com/roiemir/oil.git"
   }
 }
